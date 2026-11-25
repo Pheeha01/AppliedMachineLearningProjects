@@ -1,0 +1,3 @@
+This project explores loan and liability data to understand the financial characteristics of loan applicants and identify patterns that could support business decision-making.
+
+The dataset provides an opportunity to investigate relationships between applicants' financial metrics, loan approval outcomes and borrower satisfaction. The aim is to understand the available data, examine the variables and identify factors that may influence loan outcomes and customer experiences.
