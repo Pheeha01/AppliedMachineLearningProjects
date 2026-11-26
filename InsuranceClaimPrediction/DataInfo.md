@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classification
